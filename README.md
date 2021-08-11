@@ -1,2 +1,2 @@
-# Initial page
+# 主页
 
